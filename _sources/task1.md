@@ -3,7 +3,7 @@ Students starting C769 after 8/25/2024 will be automatically enrolled in the new
 :::
 
 (task1)=
-# Task 1
+# Task 1 (ROM2)
 <!-- hack to open links in new tab -->
 <!-- <head>
     <base target="_blank">
