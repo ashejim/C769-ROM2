@@ -1,6 +1,6 @@
 (resources)=
 
-# C769 Resources
+# C769 Resources (ROM2)
 
 <!-- hack to open links in new tab -->
 <head>
