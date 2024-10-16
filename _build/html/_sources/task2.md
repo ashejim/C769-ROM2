@@ -356,7 +356,7 @@ No, not for Task 2. You can remove them from the template if you don't need them
    type="text/javascript"
    src="https://utteranc.es/client.js"
    async="async"
-   repo="ashejim/C769"
+   repo="ashejim/C769-ROM2"
    issue-term="pathname"
    theme="github-light"
    label="💬 comment"

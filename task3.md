@@ -357,7 +357,7 @@ This comment indicates they could not find a matching in-text citation for every
    type="text/javascript"
    src="https://utteranc.es/client.js"
    async="async"
-   repo="ashejim/C769"
+   repo="ashejim/C769-ROM2"
    issue-term="pathname"
    theme="github-light"
    label="💬 comment"
