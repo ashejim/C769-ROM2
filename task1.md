@@ -25,8 +25,9 @@ A  *hard IT deliverable* is a physical or digital technological improvement to t
 - **Watch:** Choosing a Project Idea
 
 <iframe
-    src="https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d8678068-8f7e-44fb-be19-b1f7010addf6&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all"
+    src="https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d8678068-8f7e-44fb-be19-b1f7010addf6&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&showbrand=true&captions=true&interactivity=all"
     title="Choosing a topic"
+    frameborder="0"
     width="640px"
     height="360px"
     style="border: 1px solid #464646;"
