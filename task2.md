@@ -51,8 +51,8 @@ Sections are assessed independently against the rubric requirements, i.e., when 
 (task2:A)=
 ## Sections A1, A2, and A3: Overview
 
-:::{sidebar} Watch 
-<iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=db8381ab-1659-49e9-b5fc-ebb844c66944&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="A1, A2, anb A3: The Proposal" style="border: 1px solid #464646;" class="center" allowfullscreen allow="autoplay" alt= "Title screen for video.">
+:::{sidebar} Watch
+<iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=2e0255f6-cce4-4f67-ae85-b1f7010acea8&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="A1, A2, anb A3: The Proposal" style="border: 1px solid #464646;" class="center" allowfullscreen allow="autoplay" alt= "Title screen for video.">
 </iframe>
 :::
 
@@ -76,7 +76,7 @@ Keeping an uninformed reader in mind may help you understand why the Proposal Ov
 ## Sections B and B1: Review of Other Work & Relations of Artifacts
 
 :::{sidebar} Watch
-<iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=84af12b9-96da-41dc-b9ee-ac400141ba80&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="B and B1: Other Works" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" class="center" alt= "Title screen for video.">
+<iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=58126a92-852e-4167-9041-b1f7010aceb1&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="B and B1: Other Works" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" class="center" alt= "Title screen for video.">
 </iframe>
 :::
 
@@ -106,7 +106,7 @@ and then add WGU and other libraries.
 ## Sections C and D: Rationale and Current Environment
 
 :::{sidebar} Watch
-<iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=1fff04ae-4974-4999-b147-7fcb8d934904&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="C and D: Rationale & Current Envrionment" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" class="center" alt= "Title screen for the video.">
+<iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=b962d387-4cf0-4f88-97af-b1f7010aceed&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="C and D: Rationale & Current Envrionment" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" class="center" alt= "Title screen for the video.">
 </iframe>
 :::
 
@@ -133,7 +133,7 @@ Sections are checked against the rubric requirements *individually*. So when the
 ## Sections E and F: Methodology & Goals...
 
 :::{sidebar} Watch
-<iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=e3d9d9d5-03c9-425f-abff-ac4c015c1410&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="E and F: Methodology & Goals" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" class ="center" alt= "Title screen for the video.">
+<iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=9b321f2f-398a-41ee-b3b3-ad9e00f0bdfd&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="E and F: Methodology & Goals" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" class ="center" alt= "Title screen for the video.">
 </iframe>
 :::
 
@@ -264,7 +264,7 @@ At minimum, there should be one goal, each goal should have two objectives, and 
 ## Sections G and H: Timeline & Outcomes
 
 :::{sidebar} Watch
-<iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=a1daad4d-43f7-40e5-86be-ab7fe69ab76b&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="G and H: Timeline & Outcome" frameborder="0" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" class ="center" alt= "Title screen for the video.">
+<iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=03a125ec-f1f1-4ab3-8095-b1f7010ad90c&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="G and H: Timeline & Outcome" frameborder="0" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" class ="center" alt= "Title screen for the video.">
 </iframe>
 :::
 

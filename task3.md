@@ -16,7 +16,7 @@ To gauge the level of detail evaluators typically expect, review these [task 3 e
 ## Writing Task 3
 
 :::{sidebar} Watch
-<iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=5286bdf6-43c4-479e-8135-72922ac3f6bf&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="G and H: Timeline & Outcome" frameborder="0" style="border: 1px solid #464646;" class="center" allowfullscreen allow="autoplay" alt= "Title screen for the video.">
+<iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=4dcb0ca0-cf42-414a-ac8c-b1f7010adabb&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="G and H: Timeline & Outcome" frameborder="0" style="border: 1px solid #464646;" class="center" allowfullscreen allow="autoplay" alt= "Title screen for the video.">
 </iframe>
 :::
 
