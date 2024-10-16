@@ -24,19 +24,7 @@ A  *hard IT deliverable* is a physical or digital technological improvement to t
 
 - **Watch:** Choosing a Project Idea
 
-<iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=d8678068-8f7e-44fb-be19-b1f7010addf6&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="C769_ProposalSeries No1_Project Idea_default" alt= "Title screen for video: the proposal."></iframe>
-
-<iframe
-    src="https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d8678068-8f7e-44fb-be19-b1f7010addf6&autoplay=false&offerviewer=false&showtitle=true&showbrand=true&captions=true&interactivity=all"
-    title="Choosing a topic"
-    frameborder="0"
-    width="640px"
-    height="360px"
-    style="border: 1px solid #464646;"
-    allowfullscreen allow="autoplay"
-    alt= "Title screen for video: the proposal."
->
-</iframe>
+<iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=d8678068-8f7e-44fb-be19-b1f7010addf6&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="360" width="640" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" aria-label="Panopto Embedded Video Player" aria-description="C769_ProposalSeries No1_Project Idea_default" alt= "Title screen for video: the proposal."></iframe>
 
 - **Listen:**
 IT Audio Series podcast [Choosing Your Topic](https://d2y36twrtb17ty.cloudfront.net/sessions/09c3d32b-1567-4636-88d6-ad5f01616619/3183eabf-4239-4e4a-ae20-ad5f01616620-8792ef88-6d24-43f6-9fe9-ad5f01619cc7.mp4?invocationId=0275eb54-33e0-eb11-8284-12c206d2fd2b); view the [transcript](https://www.wgu.edu/content/dam/western-governors/documents/it/audio-series/ChoosingYourTopic.docx).
