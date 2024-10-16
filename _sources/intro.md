@@ -78,7 +78,7 @@ Task 3 details {fas}`arrow-right`
 First, understand the project's requirements. What they are -and what they aren't. Watch the following video:
 <iframe
     src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=e26949a3-9e24-4092-bf52-aedb014e2527&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" 
-    title="C769 Overview" 
+    title="C769 Overview"
     width="640px"
     height="360px"
     style="border: 1px solid #464646;"

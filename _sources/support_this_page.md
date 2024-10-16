@@ -15,7 +15,7 @@ We are continually trying to improve this page to better help students. How can 
    type="text/javascript"
    src="https://utteranc.es/client.js"
    async="async"
-   repo="ashejim/C769"
+   repo="ashejim/C769-ROM2"
    issue-term="pathname"
    theme="github-light"
    label="💬 comment"

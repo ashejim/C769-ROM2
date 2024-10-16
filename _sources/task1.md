@@ -25,7 +25,7 @@ A  *hard IT deliverable* is a physical or digital technological improvement to t
 - **Watch:** Choosing a Project Idea
 
 <iframe
-    src="https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d8678068-8f7e-44fb-be19-b1f7010addf6&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&showbrand=true&captions=true&interactivity=all"
+    src="https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d8678068-8f7e-44fb-be19-b1f7010addf6&autoplay=false&offerviewer=false&showtitle=true&showbrand=true&captions=true&interactivity=all"
     title="Choosing a topic"
     frameborder="0"
     width="640px"
@@ -141,7 +141,7 @@ You only need to apply for IRB review if you are collecting data involving human
    type="text/javascript"
    src="https://utteranc.es/client.js"
    async="async"
-   repo="ashejim/C769"
+   repo="ashejim/C769-ROM2"
    issue-term="pathname"
    theme="github-light"
    label="💬 comment"
