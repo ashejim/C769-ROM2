@@ -42,13 +42,13 @@ The [Capstone Excellence Archive](https://westerngovernorsuniversity.sharepoint.
 
 > [![Thumbnail of the Waiver Form](https://github.com/ashejim/C769/blob/main/url_images/769_waiver_form_thumb-1.png?raw=true#image-thumb)](https://westerngovernorsuniversity-my.sharepoint.com/:w:/g/personal/jim_ashe_wgu_edu/EUNAmf7lWqxOmKBLWTQ_zPcByoxrOLLK5sILQeeUoeYGeQ?e=9d1Ef7) 
 
-(resources:task1:overviewvideo)=
+<!-- (resources:task1:overviewvideo)=
 ### Overview Video
 
 <iframe
     src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=e26949a3-9e24-4092-bf52-aedb014e2527&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="C769 Overview" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" alt= "Title screen for video: Welcome to C769 -IT Capstone Written Project"
 >
-</iframe>
+</iframe> -->
 
 ### Task 1 Examples
 
@@ -73,7 +73,9 @@ See the [Examples](resources:examples) and [Excellence Archive](resources:exampl
 
 (resources:task2:videos)=
 
-### Task 2 Videos
+### Task 1,2, and 3 Videos
+
+Videos can be found on their respective subpage.
 
 #### Tasks 1-3 Accelerated Plan
 
@@ -81,7 +83,7 @@ Nearing the end of your term? Plan accordingly:
 
 <iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=e5deb87f-d7ee-42c8-9c02-b10a013f0dae&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" width="560" height="315" style="border: 1px solid #464646; aria-label="Panopto Embedded Video Player" alt= "Title screen for video"></iframe>
 
-#### Sections A1, A2, and A3
+<!-- #### Sections A1, A2, and A3
 
 <iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=db8381ab-1659-49e9-b5fc-ebb844c66944&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="A1, A2, anb A3: The Proposal" style="border: 1px solid #464646;" 
  allowfullscreen allow="autoplay" alt= "Title screen for video">
@@ -107,18 +109,18 @@ e3d9d9d5-03c9-425f-abff-ac4c015c1410
 #### Sections G and H
 
 <iframe src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=a1daad4d-43f7-40e5-86be-ab7fe69ab76b&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="G and H: Timeline & Outcome" frameborder="0" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" alt= "Title screen for video">
-</iframe>
+</iframe> -->
 
 ## Task 3
 
 (resources:task3)=
 
 ### Completing task 3
-
+<!-- 
 #### Video
 
 <iframe width="560" height="315" src="https://wgu.hosted.panopto.com/Panopto/Pages/Embed.aspx?id=5286bdf6-43c4-479e-8135-72922ac3f6bf&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" title="Task 3 the Conclusion Report" frameborder="0" style="border: 1px solid #464646;" allowfullscreen allow="autoplay" alt= "Title screen for video">
-</iframe>
+</iframe> -->
 
 #### Podcast
 
