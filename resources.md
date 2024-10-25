@@ -229,19 +229,16 @@ You can search [WGU's library](https://wgu.libguides.com/friendly.php?s=library)
 We've tried to provide everything you need here on this website as a more complete and readily available resource than the "welcome email," i.e., the *non-automated* introductory email from your assigned course instructor containing the tips and resources needed to get started in the right direction. However, we often get asked for the email, and I suppose this website would be incomplete without it. So here is an example of a "welcome email."
 
 ```{admonition} A Welcome Email
-Welcome to C769! See the [C769 IT Capstone website](https://ashejim.github.io/C769/intro.html) for almost everything you need. To understand what the capstone requires (and does not require), [start here](https://ashejim.github.io/C769/task1.html) and watch these videos: [Project Idea](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=691a0e9a-d33b-48ca-aac3-d7413f4bbfdc) and [Task 2: Proposal Overview](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=db8381ab-1659-49e9-b5fc-ebb844c66944). Your first step is choosing a topic; **we recommend a topic proposing a technical solution to a problem -avoiding those that deliver only information (i.e., assessments, policies, plans, training, etc.).** Though they often need reframing to fit the capstone requirements, past or present work projects make great capstone topics. The capstone project can be very similar to your C850 Emerging Technologies project -only here you get to choose the client and problem to solve. 
- 
-Any IT project is allowable provided it has the following: 
-1. A specific client and IT problem (you can fabricate a client whose problem needs your chosen solution.)
-2. The implementation of a [hard IT deliverable](https://ashejim.github.io/C769/task1.html#task1-faq-hard) (software or hardware) that helps solve that problem.
-This is a wholly written exercise (an actual project is not required), but fabricated projects must be written as realistically as possible from reality. While it may need some revising, you can reuse any of your professional or academic work.  
+Welcome to C769! I'm your capstone advisor. See the [C769 IT Capstone website](https://ashejim.github.io/C769-ROM2/intro_ROM2.html) for almost everything you need. 
 
-[Task 1](https://ashejim.github.io/C769/task1.html)
-1. Understand what the project requires and doesn't require! Watch [Project Idea](https://wgu.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=691a0e9a-d33b-48ca-aac3-d7413f4bbfdc) and all the [Task 2 Videos](https://ashejim.github.io/C769/task2.html#sections-a1-a2-and-a3-overview) (they are short). Then review these [examples](https://ashejim.github.io/C769/resources.html#examples) of actual passing projects.
-2. Write the topic approval (task 1) following the [Approval Form Template](https://ashejim.github.io/C769/task1.html#topic-approval). This document only needs to be an outline of your proposed project. Changes from task 1 to task 2 are allowed and typical; evaluators will not rigorously compare tasks 1 and 2. 
-3. Check the IRB statement and email the completed form to your [assigned course instructor](https://ashejim.github.io/C769/ci_page.html) for signature. Appointments before approval are not required but are encouraged if you have concerns. 
+Your first step is choosing a topic. Any IT project is allowable, provided it has the following:
 
-Afterward, you can start working on [Task 2](https://ashejim.github.io/C769/task2.html). 
+1. A client with an IT problem (you can fabricate a client whose problem needs your chosen solution.)
+2. Implementing a hard IT deliverable (software or hardware) that helps solve that problem.
+
+This is a written exercise. An actual project is not required, but fabricated projects should be written as realistically as possible. While it may need some revising, you can reuse any previous professional or academic work. The capstone project is similar to the Emerging Technologies project. However, in this project, you choose the client and problem. So select the problem you want to write about.
+
+Complete the [approval form](https://ashejim.github.io/C769-ROM2/task1_ROM2.html#topic-approval) and email it to your assignged course instructor for review and signature. Afterward, you can start working on Task 2. Questions? It’s why we’re here. Contact us by email (fastest) or live appointment (best for general discussions). Here you can find all [C769 CI's contact information](https://ashejim.github.io/C769-ROM2/ci_page.html#course-faculty).
 ```
 
 (resources:general:pacing)=
