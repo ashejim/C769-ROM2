@@ -1,7 +1,7 @@
 @echo off
 SET /P Message=Enter git C769-ROM2 commit comment:
 title C769-ROM2: compile html, save to repo folder, update GitHub repo and website
-cd D:\OneDrive - Western Governors University\jupyter-books\C769-ROM2
+cd "D:\OneDrive - Western Governors University\jupyter-books\C769-ROM2"
 FOR /d /r . %%d IN (.history) DO @IF EXIST "%%d" rd /s /q "%%d"
 jupyter-book build --all "D:\OneDrive - Western Governors University\jupyter-books\C769-ROM2"
 echo "Compiling local D:\OneDrive - Western Governors University\jupyter-books\C769-ROM2 ..."
